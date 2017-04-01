@@ -56,7 +56,7 @@ var projects = {
 			"title": "Pong HTML5 Canvas Game",
 			"datesWorked": "October 2016 - November 2016",
 			"description": "Online HTML5 Canvas game which involes a player playing a classic arcade game versus an AI controlled challenger.",
-			"images": ["images/pong1.png", "images/pong2.png"],
+			"images": ["images/pong1.PNG", "images/pong2.PNG"],
 			"url": "-"
 		},
 	]
