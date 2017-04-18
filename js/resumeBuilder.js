@@ -1,6 +1,6 @@
 var bio = {
 	"name": "Ugyen Jigten Dorji",
-	"role": "Web/Mobile Developer",
+	"role": "Front-end Web Developer/Native and Hybrid Mobile Developer",
 	"contacts": {
 		"email": "ujigten@gmail.com",
 		"github": "jigten",
@@ -9,8 +9,8 @@ var bio = {
 	},
 
 	"picture": "images/fry.jpg",
-	"welcomeMessage": "I'm currently studying Bachelors in Computer Science in Thailand, Bangkok. Thanks for stopping by!",
-	"skills": ["Java", "JavaScript", "Ruby", "Ruby On Rails"]
+	"welcomeMessage": "Lover of all things geeky! I'm currently studying Bachelors in Computer Science in Thailand, Bangkok. Thanks for stopping by!",
+	"skills": ["Java", "JavaScript", "Angular2/4", "TypeScript", "Ruby", "Ruby On Rails"]
 };
 
 var work = {
