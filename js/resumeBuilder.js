@@ -72,14 +72,14 @@ var projects = {
 			"title": "Patatap Clone",
 			"datesWorked": "May 2017 - June 2017",
 			"description": "A Patatap clone that written in JavaScript using PaperJS and HowlerJS frameworks.",
-			"images": ["images/patatap.png"],
+			"images": ["images/patatap.PNG"],
 			"url": "-"
 		},
 		{
 			"title": "RESTful Node Blog App",
 			"datesWorked": "Jan 2016 - March 2016",
 			"description": "A RESTful blog application built with NodeJS and Express framework. A place to post all your favourite onscreen ladies ;)",
-			"images": ["images/blog.png"],
+			"images": ["images/blog.PNG"],
 			"url": "-"
 		}
 	]
