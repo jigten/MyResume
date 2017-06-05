@@ -1,6 +1,6 @@
 var bio = {
 	"name": "Ugyen Jigten Dorji",
-	"role": "Front-end Web Developer/Native and Hybrid Mobile Developer",
+	"role": "MEAN Full-Stack Developer, Android/Hybrid Developer",
 	"contacts": {
 		"email": "ujigten@gmail.com",
 		"github": "jigten",
@@ -10,7 +10,7 @@ var bio = {
 
 	"picture": "images/fry.jpg",
 	"welcomeMessage": "Lover of all things geeky! I'm currently studying Bachelors in Computer Science in Thailand, Bangkok. Thanks for stopping by!",
-	"skills": ["Java", "JavaScript", "Angular2/4", "TypeScript", "Ruby", "Ruby On Rails"]
+	"skills": ["Javascript", "Java", "Angular2/4", "TypeScript", "NodeJS", "ROR"]
 };
 
 var work = {
@@ -59,6 +59,29 @@ var projects = {
 			"images": ["images/pong1.PNG", "images/pong2.PNG"],
 			"url": "-"
 		},
+
+		{
+			"title": "Embedded System for Detection of Infants in Automobiles to Prevent Hyperthermia",
+			"datesWorked": "May 2016 - June 2017",
+			"description": "An Arduino based project to detect infants forgotten inside a vehicle and notify parents to prevent hyperthermia deaths.",
+			"images": ["images/finalPrototype.jpg"],
+			"url": "-"
+		},
+
+		{
+			"title": "Patatap Clone",
+			"datesWorked": "May 2017 - June 2017",
+			"description": "A Patatap clone that written in JavaScript using PaperJS and HowlerJS frameworks.",
+			"images": ["images/patatap.png"],
+			"url": "-"
+		},
+		{
+			"title": "RESTful Node Blog App",
+			"datesWorked": "Jan 2016 - March 2016",
+			"description": "A RESTful blog application built with NodeJS and Express framework. A place to post all your favourite onscreen ladies ;)",
+			"images": ["images/blog.png"],
+			"url": "-"
+		}
 	]
 };
 
@@ -262,7 +285,7 @@ $(function () {
 			{
 				name: 'C++',
 				color: 'rgba(0, 102, 0, .5)',
-				data: [[2016, 4]]
+				data: [[2016, 3.5]]
 			},
 			{
 				name: 'Javascript',
@@ -270,7 +293,7 @@ $(function () {
 				data: [[2016, 8]]
 			},
 			{
-				name: 'Ruby/ ROR',
+				name: 'NodeJs',
 				color: 'rgba(204, .5, 0, .5)',
 				data: [[2016, 6], [2017, 2]]
 			},
@@ -278,6 +301,11 @@ $(function () {
 				name: 'HTML/CSS',
 				color: 'rgba(153, 51, 0, .5)',
 				data: [[2015, 5], [2016, 4]]
+			},
+			{
+				name: 'Angular2/4',
+				color: 'rgba(80, 200, 150, .5)',
+				data: [[2016, 5], [2017, 6]]
 			}
 			]
 	});
